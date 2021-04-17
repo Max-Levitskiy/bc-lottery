@@ -1,0 +1,2 @@
+# bc-lottery
+Learning project
